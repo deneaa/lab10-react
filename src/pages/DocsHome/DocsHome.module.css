@@ -1,0 +1,51 @@
+.container {
+  padding: 40px;
+  color: white;
+}
+
+.hero {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  color: white;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  color: #9ca3af;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 30px;
+}
+
+.card {
+  background: #111827;
+  padding: 16px;
+  border-radius: 10px;
+  border: 1px solid #1f2937;
+  transition: 0.2s;
+}
+
+.card:hover {
+  border-color: #00ff87;
+  transform: translateY(-2px);
+}
+
+.card {
+  background: #111827;
+  padding: 16px;
+  border-radius: 10px;
+  border: 1px solid #1f2937;
+  transition: 0.2s;
+
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}

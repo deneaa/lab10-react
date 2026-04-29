@@ -1,0 +1,144 @@
+[
+  {
+    "id": "pase",
+    "titlu": "Pase",
+    "sectiune": "gameplay",
+    "tags": ["atac", "control", "tehnica"],
+    "continut": "Pasele scurte si lungi sunt esentiale pentru controlul jocului.",
+    "comentarii": [{ "autor": "Leo", "text": "Through ball e OP." }]
+  },
+  {
+    "id": "suturi",
+    "titlu": "Suturi",
+    "sectiune": "gameplay",
+    "tags": ["atac", "finishing", "goluri"],
+    "continut": "Timing-ul si pozitia sunt cheia pentru un sut reusit.",
+    "comentarii": [{ "autor": "Marco", "text": "Timed finishing e greu 😅" }]
+  },
+  {
+    "id": "dribling",
+    "titlu": "Dribling",
+    "sectiune": "gameplay",
+    "tags": ["skill", "avansat", "control"],
+    "continut": "Foloseste skill moves pentru a depasi adversarii.",
+    "comentarii": [{ "autor": "Radu", "text": "Skill moves sunt super fun." }]
+  },
+  {
+    "id": "aparare",
+    "titlu": "Aparare",
+    "sectiune": "gameplay",
+    "tags": ["aparare", "strategie", "defensiva"],
+    "continut": "Pozitionarea si tackling-ul corect sunt esentiale.",
+    "comentarii": [
+      { "autor": "Paul", "text": "Defending-ul e mai greu anul asta." }
+    ]
+  },
+  {
+    "id": "skill-moves",
+    "titlu": "Skill Moves",
+    "sectiune": "gameplay",
+    "tags": ["skill", "tricks", "avansat"],
+    "continut": "Executa miscari speciale pentru a crea spatiu.",
+    "comentarii": [{ "autor": "Sebi", "text": "Elastico > tot." }]
+  },
+
+  {
+    "id": "career-mode",
+    "titlu": "Career Mode",
+    "sectiune": "moduri",
+    "tags": ["offline", "manager", "cariera"],
+    "continut": "Gestioneaza o echipa si construieste o cariera de succes.",
+    "comentarii": [{ "autor": "Gabi", "text": "Cel mai relax mod." }]
+  },
+  {
+    "id": "ultimate-team",
+    "titlu": "Ultimate Team",
+    "sectiune": "moduri",
+    "tags": ["online", "UT", "echipa"],
+    "continut": "Construieste echipa ta din jucatori si participa la competitii.",
+    "comentarii": [{ "autor": "Andrei", "text": "Pay to win uneori..." }]
+  },
+  {
+    "id": "seasons",
+    "titlu": "Seasons",
+    "sectiune": "moduri",
+    "tags": ["online", "competitiv", "divizii"],
+    "continut": "Joaca meciuri online si urca in divizii.",
+    "comentarii": [{ "autor": "Tibi", "text": "Div 1 e cancer 😂" }]
+  },
+  {
+    "id": "volta",
+    "titlu": "Volta",
+    "sectiune": "moduri",
+    "tags": ["fun", "street", "casual"],
+    "continut": "Mod de joc street football cu stil liber.",
+    "comentarii": [{ "autor": "Ionut", "text": "Foarte fun cu prietenii." }]
+  },
+  {
+    "id": "online",
+    "titlu": "Online Matches",
+    "sectiune": "moduri",
+    "tags": ["online", "multiplayer", "match"],
+    "continut": "Joaca impotriva altor jucatori reali.",
+    "comentarii": [{ "autor": "Florin", "text": "Delay mare uneori." }]
+  },
+
+  {
+    "id": "tactici",
+    "titlu": "Tactici",
+    "sectiune": "avansat",
+    "tags": ["strategie", "gameplay", "avansat"],
+    "continut": "Alege stilul de joc potrivit pentru echipa ta.",
+    "comentarii": [{ "autor": "Dani", "text": "4231 e meta." }]
+  },
+  {
+    "id": "formatii",
+    "titlu": "Formatii",
+    "sectiune": "avansat",
+    "tags": ["strategie", "setup", "echipa"],
+    "continut": "Formatiile influenteaza modul de joc.",
+    "comentarii": [{ "autor": "Robert", "text": "442 e foarte echilibrata." }]
+  },
+  {
+    "id": "chimie",
+    "titlu": "Chimie echipa",
+    "sectiune": "avansat",
+    "tags": ["UT", "strategie", "echipa"],
+    "continut": "Chimia afecteaza performanta jucatorilor.",
+    "comentarii": [{ "autor": "Stefan", "text": "Important in FUT." }]
+  },
+  {
+    "id": "trading",
+    "titlu": "Trading UT",
+    "sectiune": "avansat",
+    "tags": ["UT", "coins", "market"],
+    "continut": "Cum sa faci coins din transferuri.",
+    "comentarii": [{ "autor": "Alex", "text": "Sniping e baza." }]
+  },
+  {
+    "id": "meta",
+    "titlu": "Meta jucatori",
+    "sectiune": "avansat",
+    "tags": ["strategie", "meta", "playeri"],
+    "continut": "Cei mai eficienti jucatori in joc.",
+    "comentarii": [{ "autor": "Marius", "text": "Mbappe mereu OP." }]
+  },
+  {
+    "id": "intrebari-secrete",
+    "titlu": "Intrebari Secrete EA",
+    "sectiune": "privat",
+    "tags": ["intern", "securizat", "quiz"],
+    "continut": "Acest continut este disponibil doar utilizatorilor autentificati.",
+    "comentarii": [],
+    "intern": true
+  },
+  {
+    "id": "debug-meta",
+    "titlu": "Debug Meta Sistem",
+    "sectiune": "privat",
+    "tags": ["intern", "debug", "admin"],
+    "continut": "Informatii interne despre meta si echilibrare joc.",
+    "comentarii": [],
+    "intern": true
+  }
+]

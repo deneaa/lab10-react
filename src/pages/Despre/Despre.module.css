@@ -1,0 +1,42 @@
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  color: white;
+}
+
+.title {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #00ff87;
+}
+
+.text {
+  color: #aaa;
+  margin-bottom: 25px;
+  line-height: 1.6;
+}
+
+.section {
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  background: #111;
+  border: 1px solid #222;
+}
+
+.section h2 {
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.section p,
+.section li {
+  color: #aaa;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.section ul {
+  padding-left: 18px;
+}

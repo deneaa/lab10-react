@@ -1,0 +1,26 @@
+[
+  {
+    "id": "gameplay",
+    "titlu": "Gameplay",
+    "descriere": "Mecanici de joc: pase, șuturi, dribling și apărare",
+    "ordine": 1
+  },
+  {
+    "id": "moduri",
+    "titlu": "Moduri de joc",
+    "descriere": "Career Mode, Ultimate Team, Seasons și Volta",
+    "ordine": 2
+  },
+  {
+    "id": "avansat",
+    "titlu": "Avansat",
+    "descriere": "Optimizare, performanță și mecanici complexe",
+    "ordine": 3
+  },
+  {
+    "id": "privat",
+    "titlu": "Intern",
+    "descriere": "Sisteme ascunse și mecanici interne ale jocului",
+    "ordine": 4
+  }
+]
